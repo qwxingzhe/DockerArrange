@@ -1,0 +1,5 @@
+deb http://mirrors.tencentyun.com/debian/ stretch main non-free contrib
+deb http://mirrors.tencentyun.com/debian/ stretch-proposed-updates main non-free contrib
+deb-src http://mirrors.tencentyun.com/debian/ stretch main non-free contrib
+deb-src http://mirrors.tencentyun.com/debian/ stretch-proposed-updates main non-free contrib
+
